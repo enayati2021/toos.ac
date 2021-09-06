@@ -1,0 +1,868 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Accelerate\n"
+"POT-Creation-Date: 2015-09-18 11:38+0545\n"
+"PO-Revision-Date: 2019-03-06 15:03+0330\n"
+"Last-Translator: \n"
+"Language-Team: ThemeGrill <themegrill@gmail.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_x;_x;_nx;_ex;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوپس! این صفحه نمی تواند یافت شود."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr ""
+"به نظر میرسد مطابق با خواسته شما چیزی پیدا نشده است، لطفا از جستجو استفاده "
+"نمائید."
+
+#: archive.php:34
+#, php-format
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#: archive.php:42
+#, php-format
+msgid "Day: %s"
+msgstr "روز: %s"
+
+#: archive.php:45
+#, php-format
+msgid "Month: %s"
+msgstr "ماه : %s"
+
+#: archive.php:48
+#, php-format
+msgid "Year: %s"
+msgstr "سال : %s"
+
+#: archive.php:51
+msgid "Asides"
+msgstr "حاشیه"
+
+#: archive.php:54
+msgid "Images"
+msgstr "تصاویر"
+
+#: archive.php:57
+msgid "Videos"
+msgstr "ویدئوها"
+
+#: archive.php:60
+msgid "Quotes"
+msgstr "نقل قول"
+
+#: archive.php:63
+msgid "Links"
+msgstr "پیوندها"
+
+#: archive.php:66 sidebar-left.php:29 sidebar.php:29
+msgid "Archives"
+msgstr "بایگانی"
+
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "یک دیدگاه در &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s دیدگاه در &ldquo;%2$s&rdquo;"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "پیمایش دیدگاه ها"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه های قدیمی تر"
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه های جدیدتر &rarr;"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "دیدگاه ها بسته شده اند."
+
+#: content-blog-large-image.php:37 content-blog-small-image.php:38
+#: content.php:42 inc/widgets/widgets.php:213 inc/widgets/widgets.php:544
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#: content-page.php:24 content-single.php:29
+msgid "Pages:"
+msgstr "برگه:"
+
+#: functions.php:48
+msgid "Primary/Main Menu"
+msgstr "منوی اصلی"
+
+#: functions.php:49
+msgid "Footer Menu"
+msgstr "منوي پاورقی"
+
+#: functions.php:186
+msgid "You do not have sufficient permissions to access this page."
+msgstr "شما برای دسترسی به این صفحه مجوز کافی را ندارید."
+
+#: functions.php:188
+msgid "Theme Options"
+msgstr "تنظیمات پوسته"
+
+#: functions.php:190
+#, php-format
+msgid ""
+"<p style=\"font-size: 16px; max-width: 800px\";>As our themes are hosted on "
+"WordPress repository, we need to follow the WordPress theme guidelines and "
+"as per the new guiedlines we have migrated all our Theme Options to "
+"Customizer.</p><p style=\"font-size: 16px; max-width: 800px\";>We too think "
+"this is a better move in the long run. All the options are unchanged, it is "
+"just that they are moved to customizer. So, please use this <a href=\"%1$s"
+"\">link</a> to customize your site. If you have any issues then do let us "
+"know via our <a href=\"%2$s\">Contact form</a></p>"
+msgstr ""
+"<p style=\"font-size: 16px; max-width: 800px\";> همانطور که قالب های ما در "
+"مخزن وردپرس میزبانی میشوند، ما باید از دستورالعملهای قالب های وردپرس نیز "
+"پیروی کنیم و به عنوان راهنمایی، تمام گزینه ها را در اختیار شما قرار دادیم تا "
+"بتوانید قالب را سفارشی سازی نمائید. Customizer. </ p> <p style = \"font-"
+"size: 16px؛ max-width: 800px؛\"؛ ما همچنین فکر می کنیم این یک حرکت بهتری "
+"خواهد بود در دراز مدت. بنابراین، لطفا از این <a href=\"%1$s\"> لینک </a> "
+"برای سفارشی سازی سایت خود استفاده کنید. اگر مشکلی داشتید از طریق <a href="
+"\"%2$s\"> فرم تماس با ما <a href=\"٪2$s\"> به ما اطلاع دهید </a></p>"
+
+#: header.php:85
+msgid "Menu"
+msgstr "فهرست"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "انتخاب چیدمان"
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "نمای پیش فرض"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr "سایدبار راست"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr "سایدبار چپ"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "بدون سایدبار - عریض"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "بدون سایدبار - محتوا وسط"
+
+#: inc/customizer.php:22
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#: inc/customizer.php:26
+msgid "Support Forum"
+msgstr "انجمن پشتیبانی"
+
+#: inc/customizer.php:30
+msgid "Documentation"
+msgstr "آموزش"
+
+#: inc/customizer.php:34
+msgid "View Demo"
+msgstr "نمایش دمو"
+
+#: inc/customizer.php:38
+msgid "Rate this theme"
+msgstr "امتیاز به این پوسته"
+
+#: inc/customizer.php:50
+msgid "Accelerate"
+msgstr "Accelerate"
+
+#: inc/customizer.php:72
+msgid "Header"
+msgstr "هدر"
+
+#: inc/customizer.php:78
+msgid "Header Logo"
+msgstr "لوگوی هدر"
+
+#: inc/customizer.php:89
+msgid ""
+"Upload logo for your header. Recommended size is 100 X 100 pixels but you "
+"can add any size you like."
+msgstr ""
+"لوگوی سایت خود را بارگذاری کنید.اندازه پیشنهاد شده 100*100 پیکسل است اما می "
+"توانید از اندازه های دیگر هم استفاده کنید."
+
+#: inc/customizer.php:97
+msgid "Show"
+msgstr "نمايش"
+
+#: inc/customizer.php:109
+msgid "Choose the option that you want."
+msgstr "گزینه دلخواه را انتخاب کنید."
+
+#: inc/customizer.php:112
+msgid "Header Logo Only"
+msgstr "فقط لوگوی هدر"
+
+#: inc/customizer.php:113
+msgid "Header Text Only"
+msgstr "فقط متن"
+
+#: inc/customizer.php:114
+msgid "Show Both"
+msgstr "نمایش هر دو"
+
+#: inc/customizer.php:115
+msgid "Disable"
+msgstr "غیر فعال"
+
+#: inc/customizer.php:122
+msgid "Header Image Position"
+msgstr "موقعیت تصویر هدر"
+
+#: inc/customizer.php:134
+msgid "Choose top header image display position."
+msgstr "موقعیت نمایش تصویر بالای هدر را انتخاب کنید."
+
+#: inc/customizer.php:137
+msgid "Position One: Display the Header image just above the site title/text."
+msgstr "موقعیت اول: نمایش تصویر هدر بالای عنوان سایت / متن."
+
+#: inc/customizer.php:138
+msgid ""
+"Position Two (Default): Display the Header image between site title/text and "
+"the main/primary menu."
+msgstr ""
+"موقعیت دو (پیش فرض): نمایش تصویر هدر بین عنوان سایت / متن و منوی اصلی / "
+"اولیه."
+
+#: inc/customizer.php:139
+msgid "Position Three: Display the Header image below main/primary menu."
+msgstr "موقعیت سه: نمایش تصویر هدر زیر منوی اصلی / اولیه."
+
+#: inc/customizer.php:148
+msgid "Design"
+msgstr "طرح"
+
+#: inc/customizer.php:154
+msgid "Site Layout"
+msgstr "چیدمان سایت"
+
+#: inc/customizer.php:166
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr "طرح سایت خود را انتخاب کنید. تغییر در کل سایت منعکس میشود."
+
+#: inc/customizer.php:168
+msgid "Boxed layout"
+msgstr "طرح جعبه ای"
+
+#: inc/customizer.php:169
+msgid "Wide layout"
+msgstr "طرح عریض"
+
+#: inc/customizer.php:237
+msgid "Default layout"
+msgstr "چیدمان پیش فرض"
+
+#: inc/customizer.php:249
+msgid ""
+"Select default layout. This layout will be reflected in whole site archives, "
+"search etc. The layout for a single post and page can be controlled from "
+"below options."
+msgstr "این طرح برای تمام صفحات آرشیو و جستجو استفاده می شود."
+
+#: inc/customizer.php:263
+msgid "Default layout for pages only"
+msgstr "چیدمان پیش فرض برای برگه ها"
+
+#: inc/customizer.php:275
+msgid ""
+"Select default layout for pages. This layout will be reflected in all pages "
+"unless unique layout is set for specific page."
+msgstr ""
+"این طرح برای تمام برگه هایی که از طرح پیش فرض استفاده می کنند استفاده می شود."
+
+#: inc/customizer.php:289
+msgid "Default layout for single posts only"
+msgstr "چیدمان پیش فرض برای نوشته ها"
+
+#: inc/customizer.php:301
+msgid ""
+"Select default layout for single posts. This layout will be reflected in all "
+"single posts unless unique layout is set for specific post."
+msgstr ""
+"این طرح برای تمام نوشته هایی که از طرح پیش فرض استفاده می کنند استفاده می "
+"شود."
+
+#: inc/customizer.php:315
+msgid "Posts page listing display type"
+msgstr "نوع نمایش لیست نوشته ها (آرشیو)"
+
+#: inc/customizer.php:327
+msgid ""
+"Choose the display type for the latests posts view or posts page view "
+"(static front page)."
+msgstr "نوع نمایش آخرین نوشته ها را انتخاب کنید."
+
+#: inc/customizer.php:329
+msgid "Large featured image"
+msgstr "تصویر برجسته بزرگ"
+
+#: inc/customizer.php:330
+msgid "Small featured image"
+msgstr "تصویر برجسته کوچک"
+
+#: inc/customizer.php:331
+msgid "Small featured image with alternating sides"
+msgstr "تصویر برجسته کوچک با تناوت در گوشه ها"
+
+#: inc/customizer.php:340
+msgid "Primary color option"
+msgstr "تنظیمات رنگ اصلی"
+
+#: inc/customizer.php:351
+msgid ""
+"This will reflect in links, buttons and many others. Choose a color to match "
+"your site and logo."
+msgstr ""
+"این رنگ در بسیاری از قسمت های سایت استفاده می شود (می تواند رنگ سازمانی شرکت "
+"شما باشد)"
+
+#: inc/customizer.php:374
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: inc/customizer.php:386
+msgid "Write your custom css."
+msgstr "کد CSS خود را درج کنید ."
+
+#: inc/customizer.php:396
+msgid "Additional"
+msgstr "موارد دیگر"
+
+#: inc/customizer.php:402
+msgid "Activate favicon"
+msgstr "فعال کردن فاوآیکون"
+
+#: inc/customizer.php:414
+msgid "Check to activate favicon. Upload fav icon from below option"
+msgstr ""
+"فعال کردن فاو آیکون را بررسی کنید. برای بارگذاری فاوایکون از تنظیمات زیر "
+"استفاده کنید"
+
+#: inc/customizer.php:422
+msgid "Upload favicon"
+msgstr "بارگذاری فاوآیکون"
+
+#: inc/customizer.php:433
+msgid "Upload favicon for your site."
+msgstr "آپلود فاوآیکون برای سایت شما."
+
+#: inc/customizer.php:459
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: inc/customizer.php:465
+msgid "Activate slider"
+msgstr "فعال سازی اسلایدر"
+
+#: inc/customizer.php:477
+msgid "Check to activate slider."
+msgstr "کلیک کنید تا اسلایدر فعال شود."
+
+#: inc/customizer.php:486
+#, php-format
+msgid "Slider #%1$s"
+msgstr "تصویر #%1$s"
+
+#: inc/customizer.php:498
+msgid "Upload image"
+msgstr "بارگذاری تصویر"
+
+#: inc/customizer.php:511
+msgid "Enter title for this slide"
+msgstr "عنوان برای این تصویر"
+
+#: inc/customizer.php:524
+msgid "Enter description for this slide"
+msgstr "وارد کردن توضیحات برای این تصویر"
+
+#: inc/customizer.php:538
+msgid "Slider text position."
+msgstr "موقعیت متن اسلایدر."
+
+#: inc/customizer.php:542
+msgid "Right side"
+msgstr "ستون راست"
+
+#: inc/customizer.php:543
+msgid "Left side"
+msgstr "ستون چپ"
+
+#: inc/customizer.php:555
+msgid "Enter link to redirect for the slide title"
+msgstr "می توانید به تصویر لینک دهید"
+
+#: inc/customizer.php:618
+msgid "Theme Info"
+msgstr "اطلاعات قالب"
+
+#: inc/customizer.php:619
+msgid "View PRO version"
+msgstr "مشاهده نسخه حرفه ای"
+
+#: inc/functions.php:248 inc/functions.php:294
+msgid ", "
+msgstr "، "
+
+#: inc/functions.php:249
+#, php-format
+msgid ""
+"<span class=\"cat-links\"><i class=\"fa fa-folder-open\"></i>%1$s</span>"
+msgstr ""
+"<span class=\"cat-links\"><i class=\"fa fa-folder-open\"></i>%1$s</span>"
+
+#: inc/functions.php:298
+msgid "<i class=\"fa fa-comment\"></i> 0 Comment"
+msgstr "<i class=\"fa fa-comment\"></i>بدون دیدگاه"
+
+#: inc/functions.php:298
+msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
+msgstr "<i class=\"fa fa-comment\"></i> یک دیدگاه"
+
+#: inc/functions.php:298
+msgid "<i class=\"fa fa-comments\"></i> % Comments"
+msgstr "<i class=\"fa fa-comments\"></i> % دیدگاه"
+
+#: inc/functions.php:301
+msgid "Edit"
+msgstr "ویرایش"
+
+#: inc/functions.php:396
+msgid "Post navigation"
+msgstr "پیمایش نوشته"
+
+#: inc/functions.php:400 navigation.php:42
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/functions.php:401 navigation.php:43
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/functions.php:406
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "نوشته های قدیمی تر <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/functions.php:410
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "<span class=\"meta-nav\">&rarr;</span> نوشته های جدیدتر"
+
+#: inc/functions.php:436
+msgid "Pingback:"
+msgstr "اشتراک :"
+
+#: inc/functions.php:436
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: inc/functions.php:451
+msgid "Post author"
+msgstr "نویسنده مطلب"
+
+#: inc/functions.php:454
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/functions.php:462
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در انتظار تایید می باشد."
+
+#: inc/functions.php:467
+msgid "Reply"
+msgstr "پاسخ"
+
+#: inc/functions.php:487
+msgid "WordPress"
+msgstr "وردپرس"
+
+#: inc/functions.php:489
+msgid "ThemeGrill"
+msgstr "همیار وردپرس"
+
+#: inc/functions.php:491
+#, php-format
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Copyright &copy; %1$s %2$s."
+
+#: inc/functions.php:491
+#, php-format
+msgid "Powered by %s."
+msgstr "Powered by %s."
+
+#: inc/functions.php:491
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: inc/header-functions.php:64
+#, php-format
+msgid "Page %s"
+msgstr "برگه %s"
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr "ابزارک ها را در سمت راست نشان می دهد."
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr "ابزارک ها را در سمت چپ نشان می دهد."
+
+#: inc/widgets/widgets.php:40
+msgid "Header Sidebar"
+msgstr "سایدبار هدر"
+
+#: inc/widgets/widgets.php:42
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr "ابزارک ها را در بخش هدر بالای منو اصلی را نشان می دهد."
+
+#: inc/widgets/widgets.php:51
+msgid "Business Sidebar"
+msgstr "سایدبار تجاری"
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Business Page Template."
+msgstr "ابزارک ها را در صفحه تجاری نشان می دهد."
+
+#: inc/widgets/widgets.php:62
+msgid "Contact Page Sidebar"
+msgstr "سایدبار صفحه تماس با ما"
+
+#: inc/widgets/widgets.php:64
+msgid "Shows widgets on Contact Page Template."
+msgstr "ابزارک ها را در صفحه تماس با ما نشان می دهد."
+
+#: inc/widgets/widgets.php:73
+msgid "Error 404 Page Sidebar"
+msgstr "سایدبار صفحه خطای 404"
+
+#: inc/widgets/widgets.php:75
+msgid "Shows widgets on Error 404 page."
+msgstr "ابزارک ها را در صفحه خطای 404."
+
+#: inc/widgets/widgets.php:84
+msgid "Footer Sidebar One"
+msgstr "اولین سایدبار فوتر"
+
+#: inc/widgets/widgets.php:86
+msgid "Shows widgets at footer sidebar one."
+msgstr "ابزارک ها را در سایدبار اول فوتر نشان می دهد."
+
+#: inc/widgets/widgets.php:95
+msgid "Footer Sidebar Two"
+msgstr "دومین سایدبار فوتر"
+
+#: inc/widgets/widgets.php:97
+msgid "Shows widgets at footer sidebar two."
+msgstr "ابزارک ها را در سایدبار دوم فوتر نشان می دهد."
+
+#: inc/widgets/widgets.php:106
+msgid "Footer Sidebar Three"
+msgstr "سومین سایدبار فوتر"
+
+#: inc/widgets/widgets.php:108
+msgid "Shows widgets at footer sidebar three."
+msgstr "ابزارک ها را در سایدبار سوم فوتر نشان می دهد."
+
+#: inc/widgets/widgets.php:131
+msgid "Display Featured Single Page"
+msgstr "نمایش برگه های برجسته"
+
+#: inc/widgets/widgets.php:133
+msgid "TG: Featured Single Page"
+msgstr "TG:برگه های برجسته"
+
+#: inc/widgets/widgets.php:142
+msgid "Suitable for Business Sidebar and Left/Right Sidebar."
+msgstr "مناسب برای سایدبار کسب و کار و سایدبار چپ / راست."
+
+#: inc/widgets/widgets.php:145 inc/widgets/widgets.php:360
+#: inc/widgets/widgets.php:598
+msgid "Title:"
+msgstr "عنوان:"
+
+#: inc/widgets/widgets.php:148
+msgid "Displays the title of the Page if title input is empty."
+msgstr "اگر عنوان خالی باشد، عنوان صفحه را نمایش می دهد."
+
+#: inc/widgets/widgets.php:151 inc/widgets/widgets.php:367
+#: inc/widgets/widgets.php:472
+msgid "Page"
+msgstr "برگه"
+
+#: inc/widgets/widgets.php:155
+msgid "Remove Featured image"
+msgstr "پاک کردن تصویر شاخص"
+
+#: inc/widgets/widgets.php:160 inc/widgets/widgets.php:165
+msgid "Show Image Before Title"
+msgstr "نمایش تصویر قبل از عنوان"
+
+#: inc/widgets/widgets.php:161 inc/widgets/widgets.php:166
+msgid "Show Image After Title"
+msgstr "نمایش تصویر بعد از عنوان"
+
+#: inc/widgets/widgets.php:231
+msgid "Use this widget to show the call to action section."
+msgstr "از این ابزارک برای نمایش بخش تماس با ما استفاده کنید."
+
+#: inc/widgets/widgets.php:233
+msgid "TG: Call To Action Widget"
+msgstr "TG: فراخوانی برای اقدام CTA"
+
+#: inc/widgets/widgets.php:251
+msgid "Call to Action Main Text"
+msgstr "متن فراخانی برای اقدام"
+
+#: inc/widgets/widgets.php:253
+msgid "Call to Action Additional Text"
+msgstr "متن اضافی برای فراخانی برای اقدام"
+
+#: inc/widgets/widgets.php:256
+msgid "Button Text:"
+msgstr "متن دکمه:"
+
+#: inc/widgets/widgets.php:260
+msgid "Button Redirect Link:"
+msgstr "دکمه تغییر مسیر لینک:"
+
+#: inc/widgets/widgets.php:264
+msgid "Open in new tab"
+msgstr "باز کردن در تب جدید"
+
+#: inc/widgets/widgets.php:337
+msgid ""
+"Show your some pages as recent work. Best for Business Top or Bottom sidebar."
+msgstr ""
+"برخی از صفحات را به عنوان کارهای اخیر نمایش دهید. بهترین گزینه برای کسب و "
+"کار سایدبار بالا یا پائین است."
+
+#: inc/widgets/widgets.php:339
+msgid "TG: Featured Widget"
+msgstr "TG:ابزارک ویژه"
+
+#: inc/widgets/widgets.php:363
+msgid "Description"
+msgstr "توضیحات"
+
+#: inc/widgets/widgets.php:452
+msgid ""
+"Display some pages as services. Best for Business Top or Bottom sidebar."
+msgstr ""
+"بعضی صفحات را به عنوان خدمات نمایش می دهد. بهترین گزینه برای کسب و کار "
+"سایدبار بالا یا پایین است."
+
+#: inc/widgets/widgets.php:454
+msgid "TG: Image Services"
+msgstr "TG: تصویر خدمات"
+
+#: inc/widgets/widgets.php:479
+msgid "Display Read more"
+msgstr "نمایش ادامه مطلب"
+
+#: inc/widgets/widgets.php:565
+msgid "Custom Tag Cloud"
+msgstr "ابر برجسب های سفارشی"
+
+#: inc/widgets/widgets.php:567
+msgid "TG: Custom Tag Cloud"
+msgstr "TG:ابر برجسب های سفارشی"
+
+#: navigation.php:22 navigation.php:34
+msgid "&larr; Previous"
+msgstr "&larr; قبلی"
+
+#: navigation.php:23 navigation.php:35
+msgid "Next &rarr;"
+msgstr "بعدی &rarr;"
+
+#: no-results.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"آماده انتشار اولین پست خود هستید؟ <a href=\"%1$s\">از اینجا شروع کنید</a>."
+
+#: no-results.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"متاسفم اما برای جستجوی شما نتیجه ای یافت نشد.شاید با جستجوی کلمه ی دیگری به "
+"نتیجه برسید."
+
+#: no-results.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"به نظر می رسد ما نمی توانیم چیزی که به دنبال آن هستید را پیدا کنیم. شاید "
+"جستجو بتواند کمکتان کند."
+
+#: searchform.php:11 searchform.php:12
+msgid "Search"
+msgstr "جستجو"
+
+#: sidebar-left.php:36 sidebar.php:36
+msgid "Meta"
+msgstr "متا"
+
+#~ msgid "Save Options"
+#~ msgstr "ذخیره تنظیمات"
+
+#~ msgid "Restore Defaults"
+#~ msgstr "بازیابی تنظیمات پیش‌فرض"
+
+#~ msgid "Click OK to reset. Any theme settings will be lost!"
+#~ msgstr "برای ریست کلیک کنید.تمام تنظیمات از دست می رود!"
+
+#~ msgid "Default options restored."
+#~ msgstr "بازگردانی تنظیمات پیش فرض انجام شد."
+
+#~ msgid "Options saved."
+#~ msgstr "تنظیمات ذخیره گرديدند ."
+
+#~ msgid "No file chosen"
+#~ msgstr "فایلی انتخاب نشده"
+
+#~ msgid "Upload"
+#~ msgstr "بارگذاری"
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "Upgrade your version of WordPress for full media support."
+#~ msgstr ""
+#~ "برای پشتیبانی کامل از مدیا وردپرس خود را به آخرین نسخه بروزرسانی کنید."
+
+#~ msgid "View File"
+#~ msgstr "مشاهده فايل"
+
+#~ msgid "No Repeat"
+#~ msgstr "بدون تکرار"
+
+#~ msgid "Repeat Horizontally"
+#~ msgstr "تکرار افقی"
+
+#~ msgid "Repeat Vertically"
+#~ msgstr "تکرار عمودی"
+
+#~ msgid "Repeat All"
+#~ msgstr "تکرار همه"
+
+#~ msgid "Top Left"
+#~ msgstr "بالا چپ"
+
+#~ msgid "Top Center"
+#~ msgstr "بالا وسط"
+
+#~ msgid "Top Right"
+#~ msgstr "بالا راست"
+
+#~ msgid "Middle Left"
+#~ msgstr "وسط چپ"
+
+#~ msgid "Middle Center"
+#~ msgstr "وسط ميانه"
+
+#~ msgid "Middle Right"
+#~ msgstr "وسط راست"
+
+#~ msgid "Bottom Left"
+#~ msgstr "چپ پایین"
+
+#~ msgid "Bottom Center"
+#~ msgstr "وسط پایین"
+
+#~ msgid "Bottom Right"
+#~ msgstr "راست پایین"
+
+#~ msgid "Scroll Normally"
+#~ msgstr "اسکرول عادی"
+
+#~ msgid "Fixed in Place"
+#~ msgstr "ثابت شده در محل"
+
+#~ msgid "Normal"
+#~ msgstr "معمولی"
+
+#~ msgid "Italic"
+#~ msgstr "Italic"
+
+#~ msgid "Bold"
+#~ msgstr "Bold"
+
+#~ msgid "Bold Italic"
+#~ msgstr "Bold Italic"
+
+#~ msgid "Need to add header widgets?"
+#~ msgstr "نیاز به اضافه کردن ابزارک در سربرگ دارید؟"
+
+#~ msgid ""
+#~ "<a href=\"%1$s\">Click Here</a> &nbsp;&nbsp; Just add widgets that you "
+#~ "like to the Header Sidebar."
+#~ msgstr ""
+#~ "<a href=\"%1$s\">ابزارک ها</a> &nbsp;&nbsp; ابزارک هایی را که می خواهید "
+#~ "در ستون سربرگ اضافه کنید."
+
+#~ msgid "Need to replace Header Image?"
+#~ msgstr "نیاز به جایگزینی تصویر سربرگ دارید ؟"
+
+#~ msgid ""
+#~ "<a href=\"%1$s\">Click Here</a> &nbsp;&nbsp; You can change the image "
+#~ "position with the option below."
+#~ msgstr ""
+#~ "<a href=\"%1$s\">اینجا را کلیک کنید</a> &nbsp;&nbsp; می توانید موقعیت "
+#~ "تصویر را با تنظیمات زیر تغییر دهید."
+
+#~ msgid "Heder Image Position"
+#~ msgstr "موقعیت تصویر سربرگ"
+
+#~ msgid "Need to replace default background?"
+#~ msgstr "به استفاده از تصویر پس  زمینه پیش فرض نیاز دارید؟"
+
+#~ msgid "<a href=\"%1$s\">Click Here</a>"
+#~ msgstr "<a href=\"%1$s\">اینجا را کلیک کنید.</a>"
+
+#~ msgid ""
+#~ "Note: The background will only be seen if you choose any of the boxed "
+#~ "layout option in site layout option."
+#~ msgstr ""
+#~ "نکته:تصویر پس زمینه تنها در حالت چیدمان جعبه ای سایت  نمایش داده می شود."
+
+#~ msgid "Copyright &copy; "
+#~ msgstr "کپی رایت &copy; "
+
+#~ msgid "Theme by: "
+#~ msgstr "فارسی سازی توسط:"
+
+#~ msgid "Powered by: "
+#~ msgstr "قدرت گرفته از:"
